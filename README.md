@@ -1,6 +1,6 @@
 # 🛒 Saucedemo Cucumber Tests
 
-Projeto de automação de testes de interface utilizando **Java**, **Selenium WebDriver**, **Cucumber** e o padrão **Page Object Model (POM)**.  
+Projeto de automação de testes de interface utilizando **Java**, **Selenium WebDriver**, **Cucumber** e o padrão **Page Object Model**.  
 O alvo dos testes é o site [Saucedemo](https://www.saucedemo.com), que simula um e-commerce para práticas de automação.
 
 ---
