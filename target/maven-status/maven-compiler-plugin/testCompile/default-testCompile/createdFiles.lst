@@ -1,0 +1,11 @@
+pages\Checkout_complete.class
+pages\CommonPage.class
+pages\LoginPage.class
+pages\CheckoutYour.class
+steps\CompraTest.class
+pages\ProdutosPage.class
+pages\CardPage.class
+steps\RunnerTest.class
+steps\Hooks.class
+pages\CheckOverview.class
+pages\Base.class

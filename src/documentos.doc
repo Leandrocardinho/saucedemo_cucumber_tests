@@ -1,0 +1,2 @@
+comando para executar via terminal
+    mvn clean test -Dtest=steps.RunnerTest
